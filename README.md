@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Yeray and I'm a Data Scientist from ....</h2>
+<h2 align="left">Hi 👋! My name is Yeray and I'm a Data Scientist from Spain, Seville</h2>
 
 ###
 
