@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Yeray and I'm a Data Scientist | Data Analyst from Spain, Seville</h2>
+<h2 align="left">Hi 👋! My name is Yeray and I'm a Python Backend Developer | IT Support from Spain, Seville</h2>
 
 ###
 
